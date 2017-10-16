@@ -4,7 +4,7 @@ Demo of accessing data from a seperate data jar
 ## Build
 
 ```bash
-mvn package
+mvn clean install
 ```
 
 ## Run
