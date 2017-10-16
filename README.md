@@ -9,6 +9,6 @@ mvn package
 
 ## Run
 
-``bash
+```bash
 java -jar data-jar-reader/target/data-jar-reader-0.0.1-SNAPSHOT.jar 
 ```
